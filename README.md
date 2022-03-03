@@ -27,3 +27,5 @@ Currently 2017-18 Undergraduate Syllabus is being followed.
   * We will be able to solve initial value problems numerically, solve Runge-Kutta method at higher order corrections,
     solve Boundary value problems numerically, write programs for the initial and boundary value problems numerically
     and write scientific report
+  * We will be able to distinguish the use of partial differential equation, produce the discretized equation of a
+    system, write programs for solving partial differential equation numerically
