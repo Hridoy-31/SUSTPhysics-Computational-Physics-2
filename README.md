@@ -17,6 +17,11 @@ Currently 2017-18 Undergraduate Syllabus is being followed.
   * Boundary value problems
   * Finite difference method
   * Shooting method
+  * Finite difference approximation to derivatives
+  * Laplace equation
+  * Parabolic equations
+  * Hyperbolic equations
+  * Monte Carlo integration
 
 ## Learning Outcome
   * We will be able to solve initial value problems numerically, solve Runge-Kutta method at higher order corrections,
