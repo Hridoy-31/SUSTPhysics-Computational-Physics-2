@@ -22,6 +22,15 @@ Currently 2017-18 Undergraduate Syllabus is being followed.
   * Parabolic equations
   * Hyperbolic equations
   * Monte Carlo integration
+  * Monte Carlo for Ising model
+  * Variational quantum Monte Carlo simultations
+  * Green's function Monte Carlo simultations
+  * Symbolic computing systems
+  * Basic symbolic mathematics
+  * Computer calculus
+  * Linear system
+  * Non-linear system
+  * Differential equations 
 
 ## Learning Outcome
   * We will be able to solve initial value problems numerically, solve Runge-Kutta method at higher order corrections,
@@ -29,3 +38,7 @@ Currently 2017-18 Undergraduate Syllabus is being followed.
     and write scientific report
   * We will be able to distinguish the use of partial differential equation, produce the discretized equation of a
     system, write programs for solving partial differential equation numerically
+  * We will be able to identify a system where Monte Carlo (MC) can be used, write code for Ising Model, simulate the
+    ground state energy of 2 body system numerically using variational MC.
+  * We will be able to write code for scientific computing with high level programming language, use key function of 
+    Mathematica, solve ordinary & partial differential equation with Mathematica and solve Schrodinger equation
