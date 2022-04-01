@@ -62,13 +62,13 @@ for i in np.arange(0, 100, 0.01):
 # Plotting
 plt.style.use('classic') # used for classic plotting
 plt.subplot(3, 1, 1)
-plt.title('x vs t')
+plt.title('x')
 plt.plot(t_sol, x_sol, label='x')
 plt.subplot(3, 1, 2)
-plt.title('y vs t')
+plt.title('y')
 plt.plot(t_sol, y_sol,'g', label='y')
 plt.subplot(3, 1, 3)
-plt.title('z vs t')
+plt.title('z')
 plt.xlabel('time')
 plt.plot(t_sol, z_sol,'r', label='z')
 plt.show()
